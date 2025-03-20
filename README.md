@@ -1,0 +1,1 @@
+# numpy_gercek_hayat
